@@ -2,7 +2,7 @@
 
 ## Two-Tier Web Application Migration to AWS
 
-**Author:** [Student Name]
+**Author:** [Illona Addae]
 **Date:** March 1, 2026
 **Course:** Cloud Engineering
 
@@ -55,3 +55,4 @@ The on-premises baseline assumed throughout is:
 | Deployments    | Manual via SSH, no version control       |
 
 All AWS service recommendations are achievable without third-party tooling. Infrastructure-as-code is the assumed provisioning mechanism for the target architecture.
+
